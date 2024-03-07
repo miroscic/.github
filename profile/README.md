@@ -7,3 +7,4 @@ This is the code repository for the MIROSCIC Project, funded by the Italian Mini
 Here's the list of automatically generated Doxygen pages:
 
 * <https://miroscic.github.io/plugin_skeletonizer_3D>
+* <https://miroscic.github.io/plugin_cpp/>
